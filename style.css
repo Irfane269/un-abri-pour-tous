@@ -1,0 +1,19 @@
+
+h2 {
+    text-align: center;
+    color: teal;
+}
+.card {
+    margin: auto;
+    display : auto;
+    margin-top: 15px;
+    text-align: center;
+}
+
+p{
+    font-style: italic;
+}
+
+.card{
+    text-align: center;
+}
